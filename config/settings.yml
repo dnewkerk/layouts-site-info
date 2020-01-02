@@ -1,0 +1,5 @@
+plugins:
+  layouts_site_info:
+    default: ''
+    textarea: true
+    client: true

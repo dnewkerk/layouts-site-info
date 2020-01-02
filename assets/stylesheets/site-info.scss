@@ -1,0 +1,17 @@
+.site-info {
+  .links {
+    a.badge-wrapper {
+      color: #222;
+    }
+    .badge-category-bg {
+      background-color: #0088CC;
+    }
+  }
+  .text-block {
+    font-size: 0.75em;
+    color: #919191;
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
