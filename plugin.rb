@@ -3,6 +3,8 @@
 # version: 0.1
 # authors: David Newkerk
 
+enabled_site_setting :layouts_site_info_enabled
+
 register_asset 'stylesheets/site-info.scss'
 
 DiscourseEvent.on(:layouts_ready) do

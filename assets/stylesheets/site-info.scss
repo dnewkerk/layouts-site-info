@@ -1,4 +1,7 @@
 .site-info {
+  &.widget-container {
+    padding-top: 0.5em;
+  }
   .links {
     a.badge-wrapper {
       color: #222;
@@ -7,11 +10,9 @@
       background-color: #0088CC;
     }
   }
-  .text-block {
+  .text-block,
+  .copyright {
     font-size: 0.75em;
     color: #919191;
-    p:last-child {
-      margin-bottom: 0;
-    }
   }
 }

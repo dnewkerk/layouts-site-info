@@ -1,3 +1,5 @@
 en:
   site_settings:
+    layouts_site_info_enabled: "Enable layouts-site-info"
+    layouts_site_info_copyright: "Show copyright notice?"
     layouts_site_info: "HTML for site info widget"
